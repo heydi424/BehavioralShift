@@ -1,4 +1,6 @@
-## Welcome to BehavioralShift Chatbot! 🚀🤖 
+ ![IMG_0355](https://github.com/user-attachments/assets/dbd0a9c3-cb4f-42bc-b5e8-819fe0eae603)
+
+## Welcome to BehavioralShift Chatbot! 🚀🤖
 
 Helping adolescents take the first step toward healthier behaviors and mental well-being. 🌟
 
@@ -16,4 +18,5 @@ Resource Connection: Links to relevant tools, resources, and support networks.
 *BehavioralShift Chatbot is designed for informational and educational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. The authors, Heydi and Luke, are not responsible for any inaccuracies, errors, or consequences resulting from the use of this chatbot. Always seek advice from a qualified professional for medical or mental health concerns.*
 
 Author
+
 Developed by Heydi Mora Urbina and Luke Punturieri, passionate about empowering adolescents to lead healthier, happier lives.
