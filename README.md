@@ -1,4 +1,4 @@
- ![IMG_0355](https://github.com/user-attachments/assets/dbd0a9c3-cb4f-42bc-b5e8-819fe0eae603)
+ ![IMG_0355]([https://github.com/user-attachments/assets/dbd0a9c3-cb4f-42bc-b5e8-819fe0eae603](https://github-production-user-asset-6210df.s3.amazonaws.com/114032998/396755709-83ce26c6-7b9e-4f0e-a1f5-fb94cb8f768c.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241218%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241218T041019Z&X-Amz-Expires=300&X-Amz-Signature=a00269ba684f014181d4b8bcdd8ff16d076d0ed7088f55b1ddc6f482a256c0e9&X-Amz-SignedHeaders=host))
 
 # Welcome to BehavioralShift Chatbot! 🚀🤖
 
